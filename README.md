@@ -28,7 +28,7 @@ Note taking app that allows you to save and delete notes as needed.
 
 ---
 
-Heroku Link: https://shrouded-springs-07678.herokuapp.com/
+Heroku Link: https://guarded-river-35707.herokuapp.com/
 
 
 ---
@@ -41,10 +41,13 @@ Heroku Link: https://shrouded-springs-07678.herokuapp.com/
 #
 
 ## User-Instructions
-When app is first loaded, click on "get started".  A new app screen will have blank fields for note Title and note text where you can type your notes freely.  You can either save a note by clicking the file icon on the top right corner or the pencil which will erase the note.  All notes are saved and can also be deleted on the left panel of the page.
+* When app is first loaded, click on "get started".  
+* A new app screen will have blank fields for note Title and note text where you can type your notes.  
+* You can either save a note by clicking the save icon on the top right corner or the "plus" which will erase the note.  
+* All notes are saved and can also be deleted on the left panel of the page.
 
 ---
 
 ## Contributors
 
-[](https://github.com/idahuy)
+<a href="https://github.com/idahuy" target="_blank">Huy Nguyen</a>
